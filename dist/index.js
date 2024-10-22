@@ -1,3 +1,10 @@
+import AppBox from '@components/AppBox'
+import Editor from '@components/Editor'
+
 module.exports = function() {
-    console.log("react-design-editor package");
+  return (
+    <AppBox>
+      <Editor />
+    </AppBox>
+  )
   };
