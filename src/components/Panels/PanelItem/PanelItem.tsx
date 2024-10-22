@@ -6,7 +6,7 @@ import TemplatesPanel from './TemplatesPanel'
 import TextPanel from './TextPanel'
 import VideosPanel from './VideosPanel'
 import LayersPanel from './LayersPanel'
-import { Scrollbars } from 'react-custom-scrollbars'
+import { Scrollbars } from 'react-custom-scrollbars-2'
 import classNames from 'classnames'
 
 interface Props {
