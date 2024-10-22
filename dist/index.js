@@ -1,10 +1,4 @@
-import AppBox from '@components/AppBox'
-import Editor from '@components/Editor'
+const AppBox = require('@components/AppBox');
+const Editor = require('@components/Editor');
 
-module.exports = function() {
-  return (
-    <AppBox>
-      <Editor />
-    </AppBox>
-  )
-  };
+module.exports = Editor;
