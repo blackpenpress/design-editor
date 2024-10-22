@@ -1,4 +1,4 @@
-const AppBox = require('@components/AppBox');
-const Editor = require('@components/Editor');
+const AppBox = require('../src/components/AppBox');
+const Editor = require('../src/components/Editor');
 
 module.exports = Editor;
