@@ -1,5 +1,5 @@
-import AppBox from '@components/AppBox'
-import Editor from '@components/Editor'
+import AppBox from '../src/components/AppBox';
+import Editor from '../src/components/Editor';
 
 function AppContainer() {
   return (
