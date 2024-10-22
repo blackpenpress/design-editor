@@ -2,7 +2,7 @@
   "name": "design-editor",
   "version": "0.1.0",
   "private": false,
-  "main": "dist/index.js",
+  "main": "dist/index.jsx",
   "dependencies": {
     "@types/theme-ui": "^0.6.0",
     "axios": "^0.21.1",
