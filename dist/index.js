@@ -1,4 +1,12 @@
-const AppBox = require('../src/components/AppBox');
-const Editor = require('../src/components/Editor');
+import AppBox from '@components/AppBox'
+import Editor from '@components/Editor'
 
-module.exports = Editor;
+function AppContainer() {
+  return (
+    <AppBox>
+      <Editor />
+    </AppBox>
+  )
+}
+
+export default AppContainer
