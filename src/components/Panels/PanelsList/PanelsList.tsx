@@ -1,5 +1,5 @@
 import { Box } from 'theme-ui'
-import { Scrollbars } from 'react-custom-scrollbars'
+import { Scrollbars } from 'react-custom-scrollbars-2'
 import { tabItems } from './tabItems'
 import PanelItemsListItem from './PanelsListItem'
 import i18n from 'i18next'
